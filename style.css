@@ -1,0 +1,29 @@
+body{
+    background-color:blueviolet ;
+}
+
+#title{
+    color: white;
+    background-color: black;
+    padding: 50px;
+}
+#subtitle{
+    color: white;
+    background-color: black;
+    padding: 50px;
+}
+#list{
+    color: white;
+    background-color: black;
+    padding: 50px;
+}
+#link{
+    color: white;
+    font-size: 2em;
+    text-decoration: none;
+}
+#link:hover{
+    color: black;
+    font-size: 3em;
+    transition: 0.5s;
+}
